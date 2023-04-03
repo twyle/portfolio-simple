@@ -359,6 +359,11 @@ body.dark-theme {
   bottom: 0;
 }
 
+.links{
+  display: flex;
+  justify-content: space-between;
+}
+
 /*=============== SKILLS ===============*/
 .skills__content {
   row-gap: 3.5rem;
